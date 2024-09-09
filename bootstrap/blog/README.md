@@ -1,6 +1,6 @@
-## Bootstrap/blog template
+## Aditya Guha Roy
 
-This is a demo template imported from
+
 [Bootstrap](https://getbootstrap.com/docs/3.3/examples/blog/) to demonstrate
 the power of [Semantic-UI](https://semantic-ui.com).
 
